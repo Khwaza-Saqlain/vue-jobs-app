@@ -1,17 +1,4 @@
-<script setup>
-import { defineProps } from "vue";
-
-defineProps({
-  title: {
-    type: String,
-    default: "Become a Vue Dev",
-  },
-  subtitle: {
-    type: String,
-    default: "Find the Vue job that fits your skills and needs",
-  },
-});
-</script>
+<script setup></script>
 
 <template>
   <section class="bg-green-700 py-20 mb-4">

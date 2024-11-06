@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# vue-jobs-app
+This is an job listing application , made using vue js .
+=======
 # -
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +31,4 @@ npm run dev
 ```sh
 npm run build
 ```
+>>>>>>> 787f40d6baedda58dcc47f9417e60fd99d1aa208
